@@ -1,0 +1,40 @@
+role,postings,remote_pct,hybrid_pct,onsite_pct,us_salary_posted_pct,us_salary_n,us_salary_p25_usd,us_salary_median_usd,us_salary_p75_usd,us_salary_150k_plus_pct,top_metros,panel_mom_pct,riseme_url
+Software,28367,20.9,24.9,54.2,63.1,13903,116000,152000,192000,51.8,San Francisco Bay Area; Los Angeles; Washington D.C.,-11.9,https://riseme.ai/jobs/software-jobs
+Healthcare,16494,9.1,4.3,86.6,48.9,6703,50000,78000,109000,15.7,New York City; Chicago; Los Angeles,,https://riseme.ai/jobs/healthcare-jobs
+Product,11245,28.5,30.7,40.8,65.8,5534,138000,175000,213000,68.4,San Francisco Bay Area; New York City; Seattle,-19.5,https://riseme.ai/jobs/product-jobs
+Data,8859,28,28.5,43.5,67.9,4554,130000,170000,209000,63.9,San Francisco Bay Area; New York City; Washington D.C.,-14.7,https://riseme.ai/jobs/data-jobs
+AI & machine learning,7389,26.8,28.2,45,68.3,3855,143000,179000,214000,71.4,San Francisco Bay Area; New York City; Washington D.C.,-14.5,https://riseme.ai/jobs/ai-jobs
+Finance & accounting,7324,16.3,30.9,52.8,60.4,3264,83000,113000,150000,25.9,New York City; San Francisco Bay Area; Los Angeles,4.1,https://riseme.ai/jobs/finance-jobs
+Marketing,7246,31.9,31.8,36.3,61.8,3248,102000,145000,188000,47.7,San Francisco Bay Area; New York City; Los Angeles,8.5,https://riseme.ai/jobs/marketing-jobs
+Software engineer,4621,27.9,29.2,42.8,69.3,2444,139000,173000,213000,70,San Francisco Bay Area; New York City; Seattle,-18.1,https://riseme.ai/jobs/software-engineer-jobs
+Design,3376,29.6,32.5,37.9,63.6,1559,125000,167000,202000,61.7,San Francisco Bay Area; New York City; Los Angeles,3.1,https://riseme.ai/jobs/design-jobs
+Account executive,2606,38.8,27.7,33.5,61.8,1262,90000,139000,180000,46.6,New York City; San Francisco Bay Area; Chicago,7.9,https://riseme.ai/jobs/account-executive-jobs
+Project manager,2605,16.5,23.4,60.1,50.8,1013,98000,120000,143000,19.4,Los Angeles; Washington D.C.; New York City,6.3,https://riseme.ai/jobs/project-manager-jobs
+Product manager,1730,33.4,34.1,32.4,68.3,883,146000,178000,210000,73.2,San Francisco Bay Area; New York City; Seattle,26.2,https://riseme.ai/jobs/product-manager-jobs
+Senior software engineer,1716,32.6,32.7,34.7,72,921,170000,203000,230000,88.1,San Francisco Bay Area; New York City; Seattle,-12,https://riseme.ai/jobs/senior-software-engineer-jobs
+Solutions architect,1350,42.7,25,32.2,65.1,673,138000,170000,210000,67.5,San Francisco Bay Area; New York City; Washington D.C.,,https://riseme.ai/jobs/solutions-architect-jobs
+Operations manager,1341,12.1,14.3,73.6,62,675,73000,105000,137000,17.6,San Francisco Bay Area; Los Angeles; New York City,,https://riseme.ai/jobs/operations-manager-jobs
+Recruiter,1104,26.7,26.7,46.6,50.3,432,76000,105000,141000,20.8,San Francisco Bay Area; New York City; Los Angeles,,https://riseme.ai/jobs/recruiter-jobs
+Staff software engineer,947,26.2,28,45.9,74.8,567,175000,214000,252000,84.8,San Francisco Bay Area; Seattle; New York City,-4.5,https://riseme.ai/jobs/staff-software-engineer-jobs
+Marketing manager,931,38.7,31.6,29.7,54.9,371,108000,138000,168000,36.7,San Francisco Bay Area; New York City; Los Angeles,,https://riseme.ai/jobs/marketing-manager-jobs
+DevOps engineer,887,30.7,29.8,39.5,64.2,391,130000,163000,200000,59.1,San Francisco Bay Area; Washington D.C.; New York City,,https://riseme.ai/jobs/devops-engineer-jobs
+Registered nurse,802,6.5,2.8,90.7,36.3,250,60000,85000,103000,4,Chicago; San Francisco Bay Area; Los Angeles,,https://riseme.ai/jobs/registered-nurse-jobs
+Senior product manager,792,39.2,35.5,25.3,71.2,414,170000,190000,220000,88.4,San Francisco Bay Area; New York City; Seattle,22.4,https://riseme.ai/jobs/senior-product-manager-jobs
+Data engineer,690,33.3,31.6,35.1,64.2,319,122000,148000,182000,49.5,New York City; San Francisco Bay Area; Washington D.C.,,https://riseme.ai/jobs/data-engineer-jobs
+Security engineer,626,31.7,25.9,42.4,68.2,323,136000,170000,209000,65.9,San Francisco Bay Area; Washington D.C.; New York City,,https://riseme.ai/jobs/security-engineer-jobs
+Business analyst,615,22.7,32.3,45,61.2,276,89000,106000,125000,9.8,Washington D.C.; Toronto; New York City,,https://riseme.ai/jobs/business-analyst-jobs
+Data analyst,599,36.3,28.8,34.8,64.7,281,88000,114000,146000,24.2,New York City; Washington D.C.; San Francisco Bay Area,,https://riseme.ai/jobs/data-analyst-jobs
+Data scientist,598,32.1,28.1,39.8,73.4,332,135000,175000,200000,67.8,San Francisco Bay Area; Washington D.C.; New York City,,https://riseme.ai/jobs/data-scientist-jobs
+Engineering manager,583,24.6,29.6,45.8,65,283,174000,214000,252000,87.3,San Francisco Bay Area; New York City; Denver,,https://riseme.ai/jobs/engineering-manager-jobs
+Financial analyst,530,11.3,34.9,53.8,66.4,282,83000,100000,116000,4.3,New York City; Los Angeles; Toronto,,https://riseme.ai/jobs/financial-analyst-jobs
+Customer success manager,428,44.5,34,21.5,59.9,186,95000,115000,136000,17.7,New York City; San Francisco Bay Area; Toronto,,https://riseme.ai/jobs/customer-success-manager-jobs
+AI engineer,419,26.7,33.9,39.4,63.5,183,145000,183000,221000,70.5,San Francisco Bay Area; Washington D.C.; New York City,,https://riseme.ai/jobs/ai-engineer-jobs
+Technical program manager,378,16.6,27.5,55.9,72.8,229,163000,190000,223000,81.2,San Francisco Bay Area; Seattle; New York City,,https://riseme.ai/jobs/technical-program-manager-jobs
+Full stack engineer,376,34.2,25.7,40.1,68.1,159,125000,165000,208000,61,Washington D.C.; San Francisco Bay Area; New York City,,https://riseme.ai/jobs/full-stack-engineer-jobs
+Product designer,361,33.1,36.8,30.1,61.8,158,140000,169000,201000,70.3,San Francisco Bay Area; New York City; Seattle,,https://riseme.ai/jobs/product-designer-jobs
+Machine learning engineer,342,29.5,34.2,36.3,63.8,174,165000,201000,245000,83.3,San Francisco Bay Area; Washington D.C.; New York City,,https://riseme.ai/jobs/machine-learning-engineer-jobs
+HR business partner,306,12.5,25,62.5,56,133,95000,118000,158000,29.3,San Francisco Bay Area; Phoenix; Seattle,,https://riseme.ai/jobs/hr-business-partner-jobs
+QA engineer,262,30.9,26.3,42.7,54.1,105,100000,125000,143000,21,San Francisco Bay Area; Austin; Boston,,https://riseme.ai/jobs/qa-engineer-jobs
+Senior data scientist,195,48.7,24.6,26.7,77.1,108,160000,188000,205000,83.3,San Francisco Bay Area; New York City; Toronto,,https://riseme.ai/jobs/senior-data-scientist-jobs
+Senior data engineer,183,34.4,36.6,29,64.5,83,134000,150000,179000,,San Francisco Bay Area; New York City; Boston,,https://riseme.ai/jobs/senior-data-engineer-jobs
+Cloud engineer,170,25.9,36.5,37.6,61.6,75,130000,155000,186000,,San Francisco Bay Area; Washington D.C.; Dallas-Fort Worth,,https://riseme.ai/jobs/cloud-engineer-jobs

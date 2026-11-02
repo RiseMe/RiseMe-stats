@@ -1,0 +1,48 @@
+country,region_code,region,posting_pay_range_law,onsite_or_hybrid_postings,salary_posted_pct,salary_median,salary_currency
+US,WA,Washington,yes,3739,81.4,106000,USD
+US,CO,Colorado,yes,3347,76.6,89000,USD
+US,MN,Minnesota,yes,2017,75.7,75000,USD
+US,DC,District Of Columbia,yes,1215,73.7,127000,USD
+US,MA,Massachusetts,yes,4344,73.2,107000,USD
+US,HI,Hawaii,yes,431,71.9,69000,USD
+US,NJ,New Jersey,yes,2709,71.4,80000,USD
+CA,BC,British Columbia,yes,1473,70.9,78000,CAD
+US,CA,California,yes,21432,69.9,125000,USD
+US,VA,Virginia,no,4904,69.6,105000,USD
+US,NY,New York,yes,8973,68.4,108000,USD
+CA,ON,Ontario,yes,4329,67.6,87000,CAD
+US,MD,Maryland,yes,2375,67.5,101000,USD
+US,IL,Illinois,yes,5474,65,86000,USD
+US,CT,Connecticut,no,1120,63.8,80000,USD
+US,OR,Oregon,no,1854,59.5,67000,USD
+US,ME,Maine,no,388,59.3,64000,USD
+US,WI,Wisconsin,no,1812,42.2,64000,USD
+US,ID,Idaho,no,605,42,60000,USD
+US,IN,Indiana,no,2180,41,60000,USD
+US,UT,Utah,no,1650,40.8,72000,USD
+US,PA,Pennsylvania,no,3659,40.8,66000,USD
+US,OH,Ohio,no,3841,40.8,63000,USD
+US,GA,Georgia,no,3766,40.7,88000,USD
+US,NM,New Mexico,no,789,40.7,69000,USD
+US,AZ,Arizona,no,3693,40.4,75000,USD
+US,NE,Nebraska,no,551,40.3,55000,USD
+US,MO,Missouri,no,2041,39.8,78000,USD
+US,TN,Tennessee,no,2528,39.7,83000,USD
+US,AL,Alabama,no,1396,38.9,79000,USD
+US,NC,North Carolina,no,3923,38.8,83000,USD
+CA,AB,Alberta,no,1140,38.5,62000,CAD
+US,IA,Iowa,no,999,38.4,72000,USD
+US,FL,Florida,no,6186,37.8,71000,USD
+US,NV,Nevada,no,1304,37.4,75000,USD
+US,TX,Texas,no,12124,37.1,84000,USD
+US,AR,Arkansas,no,869,36.4,85000,USD
+US,KY,Kentucky,no,1010,36.2,54000,USD
+US,MT,Montana,no,302,36.1,62000,USD
+US,SC,South Carolina,no,1432,35.5,60000,USD
+US,NH,New Hampshire,no,555,35.1,64000,USD
+US,MI,Michigan,no,2857,33.7,78000,USD
+US,KS,Kansas,no,980,33.5,65000,USD
+US,OK,Oklahoma,no,1037,32.5,68000,USD
+US,MS,Mississippi,no,620,29.5,72000,USD
+CA,QC,Quebec,no,1357,27.9,56000,CAD
+US,LA,Louisiana,no,980,27.4,60000,USD

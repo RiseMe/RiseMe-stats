@@ -1,0 +1,51 @@
+rank,company,postings,top_role_family,remote_pct,salary_posted_pct
+1,Dollar Tree,1183,Operations,0,37.3
+2,Walmart,1176,Operations,0,85.9
+3,Northrop Grumman,1147,Engineering,1.3,97.8
+4,RTX,993,Engineering,5.1,87.6
+5,Domino's,971,Operations,0,30.4
+6,Amazon,918,Engineering,0.4,99.9
+7,TD,900,Sales,1.4,96.7
+8,Siemens,753,Engineering,5.3,94.2
+9,EquipmentShare,734,Operations,8.6,18.3
+10,Centria Autism,679,Healthcare,0.1,43.9
+11,AutoZone,650,Sales,0,24.3
+12,maurices,627,Sales,0,1.8
+13,CACI International Inc,583,Engineering,3.6,99.8
+14,Google,526,Engineering,0.2,100
+15,Pilot Company,518,Operations,0,79.7
+16,Ford Motor Company,516,Engineering,3.7,89
+17,Upstream Rehabilitation,509,Healthcare,0.6,65.4
+18,Public Storage,507,Operations,0,91.3
+19,Booz Allen Hamilton,503,Engineering,0.2,99.8
+20,Macy's,494,Sales,0.4,99.2
+21,Northwestern Medicine,490,Healthcare,0.2,0.4
+22,AbbVie,482,Sales,13.7,2.7
+23,AECOM,477,Engineering,9.9,2.7
+24,O'Reilly Auto Parts,469,Sales,0,32
+25,BMO Groupe financier,461,Sales,6.7,92.8
+26,Bank of America,446,Sales,0,46.9
+27,New York City Department of Transportation,437,Operations,0,6.6
+28,Veterinary Emergency Group,436,Healthcare,0,45.9
+29,Best Buy,434,Sales,0.2,58.1
+30,One Medical,433,Healthcare,61,53.1
+31,AT&T,429,Sales,0,99.3
+32,Horace Mann Insurance,359,Sales,13.6,0.6
+33,Eurofins Consumer Product Testing,354,Operations,0.8,45.5
+34,L3Harris Technologies,340,Engineering,3.2,42.4
+35,Hearst,337,Editorial,6.2,29.7
+36,TJX Companies,331,Operations,0,97
+37,Skilled Wound Care,311,Healthcare,0.3,99.4
+38,RRD,306,Procurement/Supply Chain,7.5,94.1
+39,Abbott,303,Sales,29.7,97.4
+40,Eyecare Partners,302,Healthcare,1.3,3
+41,ConvenientMD,301,Healthcare,0,36.9
+42,AccorHotel,300,Operations,0,41.7
+43,Moments Hospice,300,Healthcare,0.7,36.3
+44,General Motors,294,Engineering,4.1,30.6
+45,Nordstrom,292,Sales,0.3,91.1
+46,Leidos,290,Engineering,8.6,99.3
+47,Speechify,276,Engineering,100,90.6
+48,Capgemini,262,Engineering,5.7,99.2
+49,Lenovo,256,Sales,10.5,45.7
+50,Hilton Head Humane Association,255,Operations,4.3,30.2

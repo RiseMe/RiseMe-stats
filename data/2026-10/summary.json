@@ -1,0 +1,51 @@
+{
+  "month": "2026-10",
+  "generated_at": "2026-11-02T00:37:52.595Z",
+  "publisher": "RiseMe (https://riseme.ai)",
+  "license": "CC BY 4.0",
+  "scope": "New job postings published in the month by employers in the United States and Canada (plus remote roles open to them). Staffing agencies and job aggregators excluded.",
+  "postings": 175838,
+  "postings_us": 158616,
+  "postings_canada": 10994,
+  "postings_remote_unlocated": 6228,
+  "employers": 24926,
+  "work_arrangement_pct": {
+    "remote": 15.6,
+    "hybrid": 15.9,
+    "onsite": 68.4
+  },
+  "employment_type_pct": {
+    "full-time": 89.2,
+    "part-time": 6.9,
+    "internship": 1.7,
+    "contract": 1.6,
+    "temporary": 0.6
+  },
+  "us_salary_posted_pct": 55.3,
+  "us_salary_median_usd": 100000,
+  "us_salary_p25_usd": 60000,
+  "us_salary_p75_usd": 154000,
+  "us_salary_150k_plus_pct": 26.7,
+  "salary_posted_pct_pay_law_regions": 70.6,
+  "salary_posted_pct_other_regions": 41.3,
+  "canada_salary_posted_pct": 56.1,
+  "canada_salary_median_cad": 85000,
+  "ai_ml_postings": 7389,
+  "ai_ml_share_pct": 4.2,
+  "people_management_pct": 25.1,
+  "trend_panel": {
+    "definition": "Employers whose Greenhouse or Lever board we polled in real time from the first half of 2026-07 and were still polling on 2026-10-28. Change in new postings per weekday, 2026-09 → 2026-10.",
+    "companies": 604,
+    "candidate_boards": 722,
+    "mom_postings_pct": 0,
+    "employers_posting_more": 256,
+    "employers_posting_less": 282,
+    "mom_ai_ml_pct": -14.5
+  },
+  "exclusions": {
+    "raw_rows": 190337,
+    "agency_aggregator_or_outside_us_ca": 2414,
+    "reposts_of_older_jobs": 2614,
+    "duplicates": 9471
+  }
+}

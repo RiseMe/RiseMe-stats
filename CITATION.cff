@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "RiseMe Job Market Stats"
+abstract: "Monthly open data on new job postings in the United States and Canada: volume by role and metro, posted salaries, remote and hybrid share, pay-transparency compliance, seniority, visa sponsorship language and like-for-like hiring trends."
+authors:
+  - name: "RiseMe"
+    website: "https://riseme.ai"
+repository-code: "https://github.com/RiseMe/RiseMe-stats"
+url: "https://riseme.ai"
+license: CC-BY-4.0
+version: "2026-10"
+date-released: "2026-11-01"
+keywords:
+  - job market
+  - job postings
+  - labor market
+  - salary transparency
+  - pay transparency
+  - remote work
+  - hiring trends
+  - AI jobs
+  - United States
+  - Canada

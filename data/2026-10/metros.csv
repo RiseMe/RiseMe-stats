@@ -1,0 +1,21 @@
+metro,onsite_or_hybrid_postings,hybrid_pct,salary_posted_pct,salary_currency,salary_n,salary_median,salary_p25,salary_p75,top_role_families,riseme_url
+San Francisco Bay Area,10164,30.6,63.4,USD,5504,168000,110000,217000,Engineering; Operations; Sales,https://riseme.ai/jobs/in/sf-bay-area
+New York City,7971,30.8,66.8,USD,4455,116000,75000,175000,Operations; Sales; Engineering,https://riseme.ai/jobs/in/nyc
+Los Angeles,6617,16.5,74.3,USD,4125,108000,66000,155000,Engineering; Operations; Sales,https://riseme.ai/jobs/in/la
+Washington D.C.,4802,25.9,71.2,USD,2817,127000,87000,165000,Engineering; Operations; Sales,https://riseme.ai/jobs/in/dc
+Dallas-Fort Worth,4007,15.9,39.1,USD,1354,91000,55000,133000,Operations; Engineering; Sales,https://riseme.ai/jobs/in/dallas
+Chicago,3683,28,67.5,USD,2175,98000,63000,138000,Operations; Sales; Healthcare,https://riseme.ai/jobs/in/chicago
+Boston,3493,25.4,75.5,USD,2315,121000,80000,172000,Engineering; Operations; Sales,https://riseme.ai/jobs/in/boston
+Austin,3020,18.6,41.1,USD,1043,107000,65000,163000,Engineering; Operations; Sales,https://riseme.ai/jobs/in/austin
+Toronto,2991,43.4,63.3,CAD,1567,98000,68000,123000,Engineering; Operations; Sales,https://riseme.ai/jobs/in/toronto
+Seattle,2888,24.2,81.6,USD,1998,120000,72000,171000,Engineering; Operations; Healthcare,https://riseme.ai/jobs/in/seattle
+Phoenix,2877,17.1,37.9,USD,896,75000,51000,109000,Operations; Engineering; Healthcare,https://riseme.ai/jobs/in/phoenix
+Denver,2717,20.5,78,USD,1791,95000,62000,137000,Engineering; Operations; Sales,https://riseme.ai/jobs/in/denver
+Atlanta,2474,21.4,42.5,USD,875,93000,56000,139000,Operations; Sales; Engineering,https://riseme.ai/jobs/in/atlanta
+San Diego,1536,17.7,78.1,USD,1014,97000,60000,150000,Operations; Engineering; Sales,https://riseme.ai/jobs/in/san-diego
+Miami,1529,15.5,38.7,USD,452,78000,52000,111000,Operations; Sales; Engineering,https://riseme.ai/jobs/in/miami
+Minneapolis-St. Paul,1314,26.4,76.8,USD,881,81000,54000,115000,Operations; Engineering; Sales,https://riseme.ai/jobs/in/minneapolis
+Raleigh-Durham (Research Triangle),1269,23.2,36.7,USD,404,110000,63000,161000,Engineering; Operations; Sales,https://riseme.ai/jobs/in/raleigh-durham
+Montreal,1037,40.4,23.3,CAD,191,78000,49000,115000,Engineering; Sales; Operations,https://riseme.ai/jobs/in/montreal
+Portland,994,18.8,60.3,USD,500,75000,52000,128000,Operations; Engineering; Healthcare,https://riseme.ai/jobs/in/portland
+Vancouver,981,33.1,68.7,CAD,516,87000,62000,118000,Engineering; Operations; Sales,https://riseme.ai/jobs/in/vancouver
